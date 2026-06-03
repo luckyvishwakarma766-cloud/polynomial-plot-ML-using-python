@@ -1,1 +1,0 @@
-# polynomial-plot-ML-using-python
